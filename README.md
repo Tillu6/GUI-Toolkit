@@ -1,7 +1,7 @@
-# GUI-Toolkit
 # GUI Nmap Toolkit
 
-![Nmap AI](An_artistic_representation_of_Nmap,_the_network_sc.png)
+![image](https://github.com/user-attachments/assets/c05e77b6-177b-466c-9fea-a5bb9524e50c)
+
 
 A simple and intuitive **GUI-based Nmap Toolkit** built with **Python** and **Tkinter**, enabling users to perform port scanning efficiently.
 
@@ -39,8 +39,8 @@ scanner.scan(target, f"{start_port}-{end_port}", arguments='-Pn')
 ```
 
 ## Screenshot
-![GUI Preview](![image](https://github.com/user-attachments/assets/d5735e0e-55f2-4bbe-a571-27e1086f0a12)
-)
+![image](https://github.com/user-attachments/assets/a487816c-cda0-44b4-8641-4c92c153587d)
+
 
 ## License
 This project is licensed under the MIT License.
